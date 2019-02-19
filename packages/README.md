@@ -20,6 +20,8 @@ https://docs.oracle.com/javase/8/docs/technotes/tools/findingclasses.html
 
 souga 。。。。
 
+- java -cp FOLDER_NAME Main 可以
+- java Main -cp FOLDER_NAME 不可以，我是服了
 
 ## 其他
 默认导入 java.lang这个包
